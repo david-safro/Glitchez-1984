@@ -27,6 +27,8 @@ I do small scale short projects
   - SQLConnect
   - AJAX
   - EJS
+*  Ruby
+  - Rails
 * Java
   - JavaFX
   - Swing
@@ -39,6 +41,5 @@ I do small scale short projects
   - Unity
 *  Bash
 *  HTML/CSS
-*  Ruby
-  - Rails
+
  
