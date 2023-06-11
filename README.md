@@ -6,7 +6,7 @@ I do small scale short projects
 [Portfolio website coming soon](https://safro.dev)
 
 ## Here are some programming langauges I use (Only those I use on a semi-regular basis):
-* ###Python
+* Python
   - Numpy
   - Pygame
   - PyTorch
@@ -19,7 +19,7 @@ I do small scale short projects
   - Django
   - TKinter
   - Selenium
-* ###Javascript
+* Javascript
   - Express
   - NodeJS
   - Vue
@@ -27,18 +27,18 @@ I do small scale short projects
   - SQLConnect
   - AJAX
   - EJS
-* ###Java
+* Java
   - JavaFX
   - Swing
   - DeepLearning4J
-* ###C++
+* C++
   - OpenCV
   - Loki
   - Flashlight
-* ### C#
+*  C#
   - Unity
-* ### Bash
-* ### /CSS
-* ### Ruby
+*  Bash
+*  HTML/CSS
+*  Ruby
   - Rails
  
