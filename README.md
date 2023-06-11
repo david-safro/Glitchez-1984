@@ -1,16 +1,25 @@
-### Hi there 👋
+# Project Title 
+Brief project description 2-3 sentences.
 
-<!--
-**Glitchez-1984/Glitchez-1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Table of Contents
 
-Here are some ideas to get you started:
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Installing](#installing)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+Write about 1-2 paragraphs describing the purpose of your project.
+
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+## Installing
+Installation instructions.
+
+## Usage
+A step by step series of examples that tell you how to get a development env running.
+
+## Contributing
+Contributors names.
