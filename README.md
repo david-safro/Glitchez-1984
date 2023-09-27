@@ -6,3 +6,5 @@ I do small scale shitty short projects mainly in python with interest in ml and 
 hit me up on discord (glitch.1984) or element (@glitchez:matrix.org)
 
 (the code to generate the fractal in my pfp is in the randomprojects repo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchez-1984&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
