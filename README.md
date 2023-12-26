@@ -1,5 +1,5 @@
 # Hi there👋
-I'm David! 16 years old.
+I'm David!
 
 I do small scale short projects mainly in python with interest in ml and algorithms
 
